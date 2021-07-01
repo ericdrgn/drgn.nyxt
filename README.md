@@ -3,6 +3,10 @@ Base configuration for nyxt browser (https://github.com/atlas-engineer/nyxt) wit
 
 This is also my attempt at creating a good jumping off point for new users. This will be updated regularly alongside my personal configuration and while this is nearly identical there will always be differences. This will be as close to my personal configs as I will give out publicly.
 
+## update.sh
+- Linux script to automatically pull the latest release of these configs and automatically place theme where they need to be.
+- WARNING: This will overwrite any existing configs you may have. If you have added lisp files in ~/.config/nyxt/ it will not touch those but it will overwrite any files from this repo with their latest changes. Use at your own risk.
+
 ## Configuration: ~/.config/nyxt/ (Linux)  
 - Contains the base configuration files needed.
 
