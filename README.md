@@ -5,6 +5,7 @@ This is also my attempt at creating a good jumping off point for new users. This
 
 ## update.sh
 - Linux script to automatically pull the latest release of these configs and automatically place theme where they need to be.
+- This script is meant to be ran for initial setup or if you really want to stay in line with the configs here.
 - WARNING: This will overwrite any existing configs you may have. If you have added lisp files in ~/.config/nyxt/ it will not touch those but it will overwrite any files from this repo with their latest changes. Use at your own risk.
 
 ## Configuration: ~/.config/nyxt/ (Linux)  
