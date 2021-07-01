@@ -40,10 +40,10 @@ This is also my attempt at creating a good jumping off point for new users. This
 #### /themes directory
 <details><summary>files</summary>
 
-- **drgn-dark.lisp**: Opinionated styling, b/w with only tabs and modes in status buffer.
-- **drgn-light.lisp**: Opinionated styling, b/w with only tabs and modes in status buffer.
-- **standard-dark.lisp**: Opinionated styling, b/w with only tabs and modes in status buffer.
-- **standard-light.lisp**: Opinionated styling, b/w with only tabs and modes in status buffer.
+- **drgn-dark.lisp**: Opinionated minimal styling, white on black with only tabs and modes in status buffer.
+- **drgn-light.lisp**: Opinionated minimal styling, black on white with only tabs and modes in status buffer.
+- **standard-dark.lisp**: Opinionated minimal styling, white on black.
+- **standard-light.lisp**: Opinionated minimal styling, black on white.
 </details>
 
 ## Extending
