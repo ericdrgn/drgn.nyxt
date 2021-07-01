@@ -1,7 +1,7 @@
 (in-package #:nyxt-user)
 
 ;;loading of config files
-;;theme 
+;;add theme here
 (nyxt::load-lisp "~/.config/nyxt/themes/standard-dark.lisp")
 ;;base
 (nyxt::load-lisp "~/.config/nyxt/base/keybindings.lisp")
